@@ -1,0 +1,1 @@
+By default when you run a lint scan, the tool checks for all issues that lint supports. You can also restrict the issues for lint to check and assign the severity level for those issues. For example, you can suppress lint checking for specific issues that are not relevant to your project and, you can configure lint to report non-critical issues at a lower severity level.
